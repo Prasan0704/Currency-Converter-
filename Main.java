@@ -1,3 +1,4 @@
+// use jdk version 1.7 using applet Viewer
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
